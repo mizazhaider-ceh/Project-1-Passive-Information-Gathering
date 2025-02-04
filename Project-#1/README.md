@@ -19,50 +19,9 @@ For this project, I chose the website **Mudassar Academy** and performed passive
 
 Various **tools and techniques** were utilized to gather this information and understand the structure of the target website.  
 
----
-
-## 🔮 Table of Contents  
-
-- [Passive Information Gathering - Project](#passive-information-gathering---project)  
-  - [👨‍🔧 Author](#-author)  
-  - [🌟 Purpose of the Project](#-purpose-of-the-project)  
-  - [🔮 Table of Contents](#-table-of-contents)  
-  - [🔬 Introduction](#-introduction)  
-  - [📏 Overview of Passive Information Gathering](#-overview-of-passive-information-gathering)  
-  - [🌟 Target Website](#-target-website)  
-  - [💻 Tools and Techniques Used](#-tools-and-techniques-used)  
-  - [📝 Conclusion](#-conclusion)  
-  - [📸 Screenshots](#-screenshots)  
 
 ---
 
-## 🔬 Introduction  
-Passive Information Gathering is a process of gathering information about a target system or website **without actively engaging with it**. ✨ This is a **legal process** and is the first step in most **ethical hacking activities**.  
-
-By collecting **publicly available data**, we can assess the target’s vulnerabilities and plan further security assessments.  
-
----
-
-## 📏 Overview of Passive Information Gathering  
-In this project, the focus was on **Passive Information Gathering**, which includes techniques such as:  
-
-- 🔍 **Identifying details about the target website** (e.g., IP addresses, DNS information, domain ownership)  
-- 🌐 **Gathering information from publicly accessible sources** such as WHOIS, DNS records, and other publicly available databases  
-- 🛠️ **Identifying technologies, social media profiles, email addresses, and subdomains** related to the target website  
-
----
-
-## 🌟 Target Website  
-The target website selected for this project is:  
-🔗 **[Mudassar Academy](https://mudassaracademy.com/)**  
-
-This website was chosen as the subject for passive information gathering. The data collected will help demonstrate how passive techniques can be used to gain insights into the target.  
-
----
-
-## 💻 Tools and Techniques Used  
-
-The following
 
 ## Table of Contents
 - [Passive Information Gathering - Project](#passive-information-gathering---project)
