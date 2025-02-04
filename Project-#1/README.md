@@ -1,21 +1,68 @@
 # Passive Information Gathering - Project
 
-## Author
-**Muhammad Izaz Haider (Izaz)**
 
-## Purpose of the Project
+## 👨‍🔧 Author  
+**Muhammad Izaz Haider (Izaz)**  
 
-This project is my first attempt at performing **Passive Information Gathering** as part of ethical hacking and penetration testing. The goal of this project is to demonstrate the process of gathering publicly available information about a target website without directly interacting with the target. Passive Information Gathering is a legal and foundational step in security assessments and penetration testing.
+## 🌟 Purpose of the Project  
+This project is my first attempt at performing **Passive Information Gathering** as part of **ethical hacking and penetration testing**. ✨  
 
-For this project, I chose the website **[Mudassar Academy](https://mudassaracademy.com/)** and performed passive reconnaissance to gather the following information:
+The goal is to demonstrate the process of gathering **publicly available information** about a target website **without directly interacting with it**. Passive Information Gathering is a **legal** and foundational step in security assessments and penetration testing. ⚡️  
 
-- Identifying IP addresses and DNS details
-- Gathering domain ownership and domain-related information
-- Identifying email addresses and social media profiles linked to the target
-- Discovering the web technologies used on the target site
-- Identifying subdomains
+For this project, I chose the website **Mudassar Academy** and performed passive reconnaissance to gather the following information:  
 
-Various tools and techniques were utilized to gather this information and understand the structure of the target website.
+- 🛡️ **Identifying IP addresses and DNS details**  
+- 👤 **Gathering domain ownership and domain-related information**  
+- 📝 **Identifying email addresses and social media profiles linked to the target**  
+- 🌐 **Discovering the web technologies used on the target site**  
+- 🔀 **Identifying subdomains**  
+
+Various **tools and techniques** were utilized to gather this information and understand the structure of the target website.  
+
+---
+
+## 🔮 Table of Contents  
+
+- [Passive Information Gathering - Project](#passive-information-gathering---project)  
+  - [👨‍🔧 Author](#-author)  
+  - [🌟 Purpose of the Project](#-purpose-of-the-project)  
+  - [🔮 Table of Contents](#-table-of-contents)  
+  - [🔬 Introduction](#-introduction)  
+  - [📏 Overview of Passive Information Gathering](#-overview-of-passive-information-gathering)  
+  - [🌟 Target Website](#-target-website)  
+  - [💻 Tools and Techniques Used](#-tools-and-techniques-used)  
+  - [📝 Conclusion](#-conclusion)  
+  - [📸 Screenshots](#-screenshots)  
+
+---
+
+## 🔬 Introduction  
+Passive Information Gathering is a process of gathering information about a target system or website **without actively engaging with it**. ✨ This is a **legal process** and is the first step in most **ethical hacking activities**.  
+
+By collecting **publicly available data**, we can assess the target’s vulnerabilities and plan further security assessments.  
+
+---
+
+## 📏 Overview of Passive Information Gathering  
+In this project, the focus was on **Passive Information Gathering**, which includes techniques such as:  
+
+- 🔍 **Identifying details about the target website** (e.g., IP addresses, DNS information, domain ownership)  
+- 🌐 **Gathering information from publicly accessible sources** such as WHOIS, DNS records, and other publicly available databases  
+- 🛠️ **Identifying technologies, social media profiles, email addresses, and subdomains** related to the target website  
+
+---
+
+## 🌟 Target Website  
+The target website selected for this project is:  
+🔗 **[Mudassar Academy](https://mudassaracademy.com/)**  
+
+This website was chosen as the subject for passive information gathering. The data collected will help demonstrate how passive techniques can be used to gain insights into the target.  
+
+---
+
+## 💻 Tools and Techniques Used  
+
+The following
 
 ## Table of Contents
 - [Passive Information Gathering - Project](#passive-information-gathering---project)
