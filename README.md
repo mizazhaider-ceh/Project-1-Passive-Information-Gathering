@@ -38,6 +38,12 @@ For penetration testers, passive reconnaissance helps in:
 4. **Analyzing Security Posture 🔐** – Detecting WAFs, firewalls, and other defenses.
 
 ---
+## 🔗 Check Out My Project  
+
+Want to see how I conducted Passive Information Gathering? Click the link below to explore the full project:  
+
+👉 [Project-1: Passive Information Gathering](https://github.com/mizazhaider-ceh/Project-1-Passive-Information-Gathering/tree/main/Project-%231)  
+
 
 ## Overview of Project-#1 📝
 
